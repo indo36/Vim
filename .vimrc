@@ -1,9 +1,6 @@
 " New lines inherit the indentation of previous lines
 set autoindent
 
-" Enable indentation rules that are file-type specific
-set filetype
-
 " Enable search highlighting
 set hlsearch
 
