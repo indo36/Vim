@@ -1,2 +1,5 @@
 # Vim
-My personal Vim stuff
+
+20220425
+
+My personal Vim configuration file 
