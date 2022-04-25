@@ -1,7 +1,3 @@
-" 20220425
-" Dave Jansen
-" Vim configuration file
-
 " New lines inherit the indentation of previous lines
 set autoindent
 
@@ -34,3 +30,6 @@ set number
 
 " Show line number on the current line and relative numbers on all other lines
 set relativenumber
+
+" Highlight syntax
+syntax on
