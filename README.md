@@ -1,6 +1,6 @@
 [![Vim Logo](https://github.com/vim/vim/raw/master/runtime/vimlogo.gif)](https://www.vim.org)
 
-# Vim configuration file
+## Vim configuration file ##
 
 - [Intro](#intro)
 - [Extra](#extra)
