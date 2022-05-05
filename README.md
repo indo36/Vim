@@ -2,5 +2,5 @@
 
 ### Vim configuration file ##
 
-This is my personal Vim configuration file. Use what you like but be shure to only use the things that solve a problen for you.
+This is my personal Vim configuration file. Use what you like but be shure to only use the things that solve a problem for you.
 
